@@ -1,0 +1,1 @@
+{"name":"Local: Ford_Bellman","url":"e:\\Algorithm\\Module_7.2\\Ford_Bellman.cpp","tests":[{"id":1709647939128,"input":"4 5\n1 2 10\n2 3 10\n1 3 100\n3 1 -10\n2 3 1","output":"0 10 11 30000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module_7.2\\Ford_Bellman.cpp","group":"local","local":true}

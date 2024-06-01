@@ -1,0 +1,1 @@
+{"name":"Local: shortest_path","url":"e:\\Algorithm\\mid_exam\\shortest_path.cpp","tests":[{"id":1706962496157,"input":"5 6\n1 2 3 4 5\n6 7 8 9 10\n11 12 13 14 15\n16 17 18 19 20\n21 22 23 24 25\n26 27 28 29 30\n0 0","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\mid_exam\\shortest_path.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: mst","url":"e:\\Algorithm\\Module_11\\mst.cpp","tests":[{"id":1707300149156,"input":"7 7\n0 1 2\n0 2 3\n1 3 5\n1 4 7\n3 7 2\n2 6 8\n7 4 4","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module_11\\mst.cpp","group":"local","local":true}

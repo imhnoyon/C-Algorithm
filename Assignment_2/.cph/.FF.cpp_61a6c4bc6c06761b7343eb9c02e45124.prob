@@ -1,0 +1,1 @@
+{"name":"Local: FF","url":"e:\\Algorithm\\Assignment_2\\FF.cpp","tests":[{"id":1708169041888,"input":"5 6\n...D.#\n.R...#\n....#.\n..#...\n.#.##.","output":"...D.#\n.##X.#\n.XXX#.\n.R#...\n.#.##."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Assignment_2\\FF.cpp","group":"local","local":true}

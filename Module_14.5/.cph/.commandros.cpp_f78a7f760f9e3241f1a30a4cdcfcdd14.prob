@@ -1,0 +1,1 @@
+{"name":"Local: commandros","url":"e:\\Algorithm\\Module_14.5\\commandros.cpp","tests":[{"id":1707844469447,"input":"2\n4\n3\n0 1\n2 1\n1 3\n0 3\n2\n1\n0 1\n1 0","output":"Case 1: 4\nCase 2: 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module_14.5\\commandros.cpp","group":"local","local":true}

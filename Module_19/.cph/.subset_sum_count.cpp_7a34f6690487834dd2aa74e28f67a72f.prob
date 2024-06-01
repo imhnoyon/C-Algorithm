@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum_count","url":"e:\\Algorithm\\Module_19\\subset_sum_count.cpp","tests":[{"id":1708780784823,"input":"4 \n1 2 4 5\n7","output":"2"},{"id":1708843082808,"input":"3 \n12 1 3\n4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module_19\\subset_sum_count.cpp","group":"local","local":true}

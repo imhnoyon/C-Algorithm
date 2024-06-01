@@ -1,0 +1,1 @@
+{"name":"Local: Bellman_ford","url":"e:\\Algorithm\\Module-7_Bellman_ford and Floyed_warshal\\Bellman_ford.cpp","tests":[{"id":1708254404243,"input":"4 4\n1 2 1\n2 3 2\n3 4 5\n4 1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module-7_Bellman_ford and Floyed_warshal\\Bellman_ford.cpp","group":"local","local":true}

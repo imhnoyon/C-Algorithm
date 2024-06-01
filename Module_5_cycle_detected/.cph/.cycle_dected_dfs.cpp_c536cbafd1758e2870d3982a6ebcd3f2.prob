@@ -1,0 +1,1 @@
+{"name":"Local: cycle_dected_dfs","url":"e:\\Algorithm\\Module_5_cycle_detected\\cycle_dected_dfs.cpp","tests":[{"id":1708006207817,"input":"3 3\n1 2\n2 3\n1 3","output":"Cycle Detected"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Module_5_cycle_detected\\cycle_dected_dfs.cpp","group":"local","local":true}
